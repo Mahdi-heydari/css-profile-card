@@ -2,4 +2,4 @@
 
 tanjiro kamado card bulit with CSS and HTML 💻
 
-<img src="forReead.png" width="300" />
+<img src="forReead.png" width="450" />
